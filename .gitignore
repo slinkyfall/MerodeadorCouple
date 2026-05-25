@@ -1,0 +1,11 @@
+node_modules
+dist
+.vite
+_handoff_extracted
+*.zip
+
+# Archivos originales en raíz — ya copiados a public/assets/
+Hedwig's Theme (Theme from Harry Potter).mp3
+WhatsApp Image*.jpeg
+footprints-svgrepo-com.svg
+wooden-floor-background.jpg
