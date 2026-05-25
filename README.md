@@ -25,8 +25,6 @@ npm run dev
 
 Abre `http://localhost:5173`.
 
-> **Nota:** `public/assets/mapa-fondo.jpg` no está incluido en el repositorio. Agrega una imagen de alta resolución del Mapa del Merodeador con ese nombre para que la fase 2 se vea correctamente.
-
 ## Aviso legal
 
 Harry Potter y todos los elementos asociados son propiedad de Warner Bros. Entertainment Inc. y J.K. Rowling. Este proyecto es un regalo personal sin fines comerciales; no se distribuye, no genera ingresos y no pretende infringir ningún derecho de autor. Si eres titular de derechos y tienes alguna objeción, por favor contáctame directamente.
